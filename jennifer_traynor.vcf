@@ -1,0 +1,24 @@
+BEGIN:VCARD
+
+VERSION:3.0
+
+PRODID:-//Apple Inc.//iPhone OS 17.6.1//EN
+
+N:Traynor;Jennifer;;;
+
+FN:Jennifer Traynor
+
+ORG:House Of Colour Charlotte Center City;
+
+EMAIL;type=INTERNET;type=WORK;type=pref:jennifer.traynor@houseofcolour.com
+
+TEL;type=CELL;type=VOICE;type=pref:(704) 756-6725
+
+X-SOCIALPROFILE;type=Instagram:https://www.instagram.com/hoc_charlottecentercity?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==":x-apple:https%3A//www.instagram.com/hoc_charlottecentercity/
+
+item1.URL;type=pref:https://www.houseofcolour.com/stylists/jennifer-traynor-charlotte-center-city-north-carolina
+
+item1.X-ABLabel:_$!<HomePage>!$_
+
+END:VCARD
+
